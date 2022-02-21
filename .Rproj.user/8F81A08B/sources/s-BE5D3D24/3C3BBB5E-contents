@@ -1,0 +1,21 @@
+---
+bg_image: images/backgrounds/full-nav-bg.jpg
+button:
+  enable: true
+  label: HIRE ME
+  link: '#contact'
+custom_attributes: ""
+custom_class: ""
+custom_css: ""
+first_name: David
+last_name: Njau
+occupations:
+- Android App Developer
+- Web App Developer
+- Database Manager
+slider_images:
+- images/slider/slider-1.jpg
+- images/slider/Njau.jpg
+- images/slider/slider-3.jpg
+title: I'm David Njau
+---
